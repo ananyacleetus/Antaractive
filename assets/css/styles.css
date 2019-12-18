@@ -2711,11 +2711,11 @@ BLOG Pagination
   line-height: 30px;
   margin-bottom: 30px; }
 
-#link{
+.mh-about-inner#link{
   color: #E91E63;
 }
 
-  #link:hover{
+.mh-about-inner#link:hover{
     color: #FFFFFF;
   }
 
