@@ -1,4 +1,4 @@
-/*------------- 
+/*-------------
 [Table of contents]
 
 [ DEFULT INDEX NUMBER ]
@@ -21,15 +21,15 @@
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [ Color codes ]
-    
+
     [ Text and Background Color ]
-        Main color 1:       #1c93e5     
-        Main color 2:       #009688      
+        Main color 1:       #1c93e5
+        Main color 2:       #009688
         Main color 3:       #9c27b0
-        Main color 4:       #ff4081      
-        Background 1:       #FFFFFF            
-        Background 2:       #F6F6F6           
-        Shadow color:       #000000;            
+        Main color 4:       #ff4081
+        Background 1:       #FFFFFF
+        Background 2:       #F6F6F6
+        Shadow color:       #000000;
 
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
@@ -56,7 +56,7 @@
         font-size: 20px;
         font-weight: 600;
 
-    p:  
+    p:
         font-size: 18px;
         line-height: 30px;
 
@@ -78,7 +78,7 @@
 
 /**
  * -------------------
- *  Defult CSS 
+ *  Defult CSS
  * -------------------
  */
 html {
@@ -289,7 +289,7 @@ a {
       top: -3px;
       width: 14px; }
   .btn.btn-fill {
-    background-color: #0bceaf;
+    background-color: #E91E63;
     color: #fff; }
   .btn.left-icon .icon {
     margin-right: 15px; }
@@ -358,7 +358,7 @@ a {
   .btn-text-link a {
     margin-left: 10px; }
 
-/** 
+/**
  * -----------------
  * Social Icon Style
  * -----------------
@@ -522,7 +522,7 @@ ul {
   background-position: center center; }
 
 .home-2-img {
-  background-image: url(../images/home-bg-img.jpg); }
+  background-image: url(../images/bg2.png); }
 
 .featured-img-one {
   background-image: url(../images/home-bg-img.jpg); }
@@ -580,7 +580,7 @@ button {
     box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
     border-color: transparent; }
 
-/** 
+/**
  * -----------------
  * General CSS
  * -----------------
@@ -639,7 +639,7 @@ button {
 .white-vertion .page-item.active .page-link {
   background-color: #fff;
   border-color: #fff;
-  color: #0bceaf; }
+  color: #E91E63; }
 .white-vertion .navbar-toggler .icon,
 .white-vertion .navbar-toggler .icon::after,
 .white-vertion .navbar-toggler .icon::before {
@@ -741,13 +741,13 @@ button {
   .dark-vertion .nav-strict {
     background-color: #202026; }
   .dark-vertion .img-color-overlay {
-    background-color: rgba(0, 0, 0, 0.9); }
+    background-color: rgba(0, 0, 0, 0.5); }
   .dark-vertion .mh-home .mh-header-info .social-icon li .fa:hover {
     background-color: #fff; }
   .dark-vertion .page-item.active .page-link {
     background-color: #fff;
     border-color: #fff;
-    color: #0bceaf; }
+    color: #E91E63; }
   .dark-vertion .navbar-toggler .icon,
   .dark-vertion .navbar-toggler .icon::after,
   .dark-vertion .navbar-toggler .icon::before {
@@ -842,7 +842,7 @@ body {
     ==============
 */
 /*---------------------------------------------------------------------*/
-/* Loader 
+/* Loader
 /*---------------------------------------------------------------------*/
 .section-loader {
   position: fixed;
@@ -939,7 +939,7 @@ body {
         padding-left: 0;
         padding-right: 0; }
       .mh-header .navbar-nav li a:hover {
-        color: #0bceaf; }
+        color: #E91E63; }
 
 .nav-3 .navbar-dark .navbar-nav .nav-link a {
   color: rgba(255, 255, 255, 0.7); }
@@ -989,7 +989,7 @@ body {
       .mh-home-2 .mh-header-info ul.mh-home-contact li .fa {
         margin-right: 10px; }
       .mh-home-2 .mh-header-info ul.mh-home-contact li:hover .fa {
-        color: #0bceaf; }
+        color: #E91E63; }
   .mh-home-2 .mh-header-info .mh-about-tag {
     width: 60%;
     margin: 0 auto; }
@@ -1010,7 +1010,7 @@ body {
   .mh-home .mh-header-info .mh-promo {
     margin-bottom: 30px; }
     .mh-home .mh-header-info .mh-promo span {
-      background-color: #0bceaf;
+      background-color: #E91E63;
       font-size: 14px;
       line-height: 24px;
       letter-spacing: 1px;
@@ -1040,7 +1040,7 @@ body {
       .mh-home .mh-header-info ul li address {
         display: inline-block; }
       .mh-home .mh-header-info ul li:hover .fa {
-        color: #0bceaf; }
+        color: #E91E63; }
   .mh-home .mh-header-info .social-icon {
     margin-top: 0; }
     .mh-home .mh-header-info .social-icon li .fa {
@@ -1119,7 +1119,7 @@ body {
     padding: 4px 0px;
     display: inline-block; }
     .mh-about-tag ul li span {
-      border: 1px solid #0bceaf;
+      border: 1px solid #E91E63;
       padding: 4px 10px;
       border-radius: 4px; }
       .mh-about-tag ul li span:hover {
@@ -1185,7 +1185,7 @@ body {
   stroke: rgba(0, 0, 0, 0.7); }
 
 .mh-progress path:nth-child(2) {
-  stroke: #0bceaf; }
+  stroke: #E91E63; }
 
 .candidatos {
   position: relative;
@@ -1228,7 +1228,7 @@ body {
       border-bottom-left-radius: 10px;
       border-top-right-radius: 10px;
       border-bottom-right-radius: 10px;
-      background: #0bceaf;
+      background: #E91E63;
       -webkit-transition: 3s all;
       -webkit-animation-duration: 3s;
       -webkit-animation-name: animationProgress; }
@@ -1271,10 +1271,10 @@ body {
     .mh-experince .mh-education-deatils .mh-education-item h4 a {
       font-style: italic;
       margin-left: 4px;
-      color: #0bceaf; }
+      color: #E91E63; }
   .mh-experince .mh-education-deatils .mh-education-item .mh-eduyear {
     margin: 10px 0;
-    color: #0bceaf; }
+    color: #E91E63; }
   .mh-experince .mh-education-deatils .mh-education-item p {
     font-size: 14px;
     line-height: 23px;
@@ -1309,10 +1309,10 @@ body {
       line-height: 30px;
       font-weight: 600; }
       .mh-work .mh-experience-deatils .mh-work-item h4 a {
-        color: #0bceaf; }
+        color: #E91E63; }
     .mh-work .mh-experience-deatils .mh-work-item .mh-eduyear {
       margin: 10px 0;
-      color: #0bceaf; }
+      color: #E91E63; }
     .mh-work .mh-experience-deatils .mh-work-item span {
       font-size: 12px;
       line-height: 22px; }
@@ -1342,9 +1342,9 @@ body {
       margin: 0 10px;
       cursor: pointer; }
       .portfolio-nav ul li:hover {
-        color: #0bceaf; }
+        color: #E91E63; }
       .portfolio-nav ul li.active {
-        color: #0bceaf; }
+        color: #E91E63; }
 
 .mh-portfolio-modal {
   display: none;
@@ -1411,7 +1411,7 @@ body {
   .mh-pricing .mh-pricing h5 {
     font-size: 36px;
     line-height: 40px;
-    color: #0bceaf;
+    color: #E91E63;
     margin-bottom: 20px;
     margin-top: 20px; }
   .mh-pricing .mh-pricing span {
@@ -1452,7 +1452,7 @@ body {
     .mh-blog .mh-blog-item .blog-inner h2 a {
       color: #fff; }
     .mh-blog .mh-blog-item .blog-inner a {
-      color: #0bceaf; }
+      color: #E91E63; }
   .mh-blog .mh-blog-item img {
     margin-bottom: 30px; }
   .mh-blog .mh-blog-item h2 {
@@ -1462,7 +1462,7 @@ body {
     margin-bottom: 10px;
     color: #fff; }
     .mh-blog .mh-blog-item h2 a {
-      color: #0bceaf; }
+      color: #E91E63; }
       .mh-blog .mh-blog-item h2 a:hover {
         color: #0ac4a7; }
 
@@ -1549,7 +1549,7 @@ body {
     width: inherit;
     float: none;
     margin: 0 auto;
-    border: 5px solid #0bceaf;
+    border: 5px solid #E91E63;
     margin: 0 auto;
     margin-bottom: 20px;
     border-radius: 50%; }
@@ -1582,12 +1582,12 @@ body {
 .mh-testimonial .owl-controls .owl-dots .owl-dot {
   height: 15px;
   width: 15px;
-  border: 1px solid #0bceaf;
+  border: 1px solid #E91E63;
   display: inline-block;
   border-radius: 50%;
   margin-right: 10px; }
 .mh-testimonial .owl-controls .owl-dots .owl-dot.active {
-  background-color: #0bceaf; }
+  background-color: #E91E63; }
 
 /*
     ==============
@@ -1660,7 +1660,7 @@ body {
         border-radius: 50%;
         line-height: 100px;
         font-size: 20px;
-        border-color: #0bceaf; }
+        border-color: #E91E63; }
 
 /*
 ====================
@@ -1766,7 +1766,7 @@ body {
 */
 .old {
   /*==============
-            Overlay            
+            Overlay
   ================== */
   /*  Navigation Menu */ }
   .old .navbar-collapse {
@@ -1778,7 +1778,7 @@ body {
     z-index: 990;
     margin-top: 0px;
     padding: 0;
-    background-color: #0bceaf;
+    background-color: #E91E63;
     transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
     -o-transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
     -ms-transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
@@ -1886,7 +1886,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     display: block; }
   .old .navbar-header .navbar-toggler .icon-bar {
-    background-color: #0bceaf;
+    background-color: #E91E63;
     -webkit-transition: all 0.4s ease-out;
     -moz-transition: all 0.4s ease-out;
     -o-transition: all 0.4s ease-out;
@@ -1918,7 +1918,7 @@ body {
     z-index: 990;
     margin-top: 0px;
     padding: 0;
-    background-color: #0bceaf;
+    background-color: #E91E63;
     transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
     -o-transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
     -ms-transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
@@ -1992,7 +1992,7 @@ body {
     z-index: 990;
     margin-top: 0px;
     padding: 0;
-    background-color: #0bceaf;
+    background-color: #E91E63;
     transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
     -o-transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
     -ms-transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
@@ -2100,7 +2100,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     display: block; }
   .new .navbar-header .navbar-toggler .icon-bar {
-    background-color: #0bceaf;
+    background-color: #E91E63;
     -webkit-transition: all 0.4s ease-out;
     -moz-transition: all 0.4s ease-out;
     -o-transition: all 0.4s ease-out;
@@ -2132,7 +2132,7 @@ body {
     z-index: 990;
     margin-top: 0px;
     padding: 0;
-    background-color: #0bceaf;
+    background-color: #E91E63;
     transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
     -o-transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
     -ms-transform: translateX(-100%) translateY(0) translateZ(0) rotate(0deg) scale(1);
@@ -2208,7 +2208,7 @@ body {
       padding: 15px 0;
       border-bottom: 2px solid transparent; }
     .portfolio-nav ul li.current span {
-      border-bottom: 2px solid #0bceaf; }
+      border-bottom: 2px solid #E91E63; }
 
 .mh-project-gallery .grid-item figure {
   position: relative;
@@ -2408,7 +2408,7 @@ body {
   margin: 30px 0; }
   .mh-featured-project .mh-featured-item .mh-featured-project-content .project-category {
     font-size: 14px;
-    color: #0bceaf;
+    color: #E91E63;
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 600;
@@ -2451,12 +2451,12 @@ body {
 .mh-single-project-slide .owl-controls .owl-dots .owl-dot {
   height: 15px;
   width: 15px;
-  border: 1px solid #0bceaf;
+  border: 1px solid #E91E63;
   display: inline-block;
   border-radius: 50%;
   margin-right: 10px; }
 .mh-single-project-slide .owl-controls .owl-dots .owl-dot.active {
-  background-color: #0bceaf; }
+  background-color: #E91E63; }
 
 .mh-single-project-slide-by-side .owl-next {
   position: absolute;
@@ -2506,7 +2506,7 @@ body {
     font-size: 25px;
     line-height: 34px; }
   .mh-service .mh-service-item a {
-    color: #0bceaf; }
+    color: #E91E63; }
     .mh-service .mh-service-item a .fa {
       font-size: 16px;
       line-height: 27px;
@@ -2532,7 +2532,7 @@ BLOG Pagination
     border: 1px solid #fff;
     font-weight: bold; }
     .mh-pagination .page-link:hover {
-      color: #0bceaf; }
+      color: #E91E63; }
   .mh-pagination .page-item:last-child .page-link {
     border-top-right-radius: 50%;
     border-bottom-right-radius: 50%; }
@@ -2584,7 +2584,7 @@ BLOG Pagination
     margin: 0 auto;
     border-radius: 50%; }
   .mh-author-info .social-icon li a:hover {
-    color: #0bceaf; }
+    color: #E91E63; }
 
 .mh-blog-category h4 {
   margin: 0;
@@ -2593,7 +2593,7 @@ BLOG Pagination
   display: block;
   margin: 2px 0; }
   .mh-blog-category ul li a:hover {
-    color: #0bceaf; }
+    color: #E91E63; }
 
 .mh-blog-insta ul li {
   width: 48%;
@@ -2624,7 +2624,7 @@ BLOG Pagination
     list-style-type: circle; }
 
 .mh-blog-next-prev-post a {
-  color: #0bceaf; }
+  color: #E91E63; }
   .mh-blog-next-prev-post a .fa {
     margin: 0 4px; }
 
@@ -2658,7 +2658,7 @@ BLOG Pagination
   margin-bottom: 30px; }
 
 .comment-deatils span {
-  color: #0bceaf; }
+  color: #E91E63; }
 
 .single-comment {
   overflow: hidden;
@@ -2676,5 +2676,13 @@ BLOG Pagination
   font-size: 22px;
   line-height: 30px;
   margin-bottom: 30px; }
+
+#link{
+  color: #E91E63;
+}
+
+  #link:hover{
+    color: #FFFFFF;
+  }
 
 /*# sourceMappingURL=styles.css.map */
