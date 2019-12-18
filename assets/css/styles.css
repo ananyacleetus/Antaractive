@@ -527,7 +527,7 @@ ul {
 .featured-img-one {
   background-image: url(../images/tedbackground3.png);
   background-repeat: space;
-  background-position: 100px 0px;
+  background-position: 0px 0px;
 }
 
 .featured-img-two {
@@ -2691,5 +2691,25 @@ BLOG Pagination
   #link:hover{
     color: #FFFFFF;
   }
+
+  .video-container {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 30px;
+height: 0;
+overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top: 10%;
+transform:translateY(10%);
+left: 50%;
+transform:translateX(-50%);
+width: 60%;
+height: 80%;
+}
 
 /*# sourceMappingURL=styles.css.map */
