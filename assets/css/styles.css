@@ -1338,7 +1338,8 @@ body {
       .mh-work .mh-experience-deatils .mh-work-item .work-responsibility li .fa {
         font-size: 10px;
         line-height: 23px;
-        margin-right: 10px; }
+        margin-right: 10px;
+        color:#E91E63;}
 
         .mh-education .mh-education-deatils .mh-education-item .work-responsibility li {
           font-size: 14px;
@@ -1350,6 +1351,7 @@ body {
           font-size: 10px;
           line-height: 23px;
           margin-right: 10px;
+          color:#E91E63;
         }
 
         .mh-work .mh-experience-deatils .mh-work-item .exp-link:hover{
