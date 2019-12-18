@@ -525,10 +525,18 @@ ul {
   background-image: url(../images/bg1.jpg); }
 
 .featured-img-one {
-  background-image: url(../images/tedbackground3.png);
+  /* background-image: url(../images/tedbackground3.png); */
+  background-image: url(../images/tedtrans3.png);
   background-repeat: space;
   background-position: 0px 0px;
+  /* background: rgba(0, 0, 0, 0.1); */
+  /* opacity: 20%; */
+  /* background-color: rgba(255, 255, 255, 0.5); */
 }
+
+/* .featured-img-one .video-container {
+  background:rgba(0, 0, 0,0.7);
+} */
 
 .featured-img-two {
   background-image: url(../images/extra-feature-bg.jpg); }
@@ -1277,7 +1285,7 @@ body {
     font-weight: 600; }
     .mh-experince .mh-education-deatils .mh-education-item h4 a {
       font-style: italic;
-      margin-left: 4px;
+      /* margin-left: 4px; */
       color: #E91E63; }
   .mh-experince .mh-education-deatils .mh-education-item .mh-eduyear {
     margin: 10px 0;
@@ -1332,6 +1340,17 @@ body {
         line-height: 23px;
         margin-right: 10px; }
 
+        .mh-education .mh-education-deatils .mh-education-item .work-responsibility li {
+          font-size: 14px;
+          line-height: 23px;
+          margin: 2px 0;
+        }
+
+        .mh-education .mh-education-deatils .mh-education-item .work-responsibility li .fa{
+          font-size: 10px;
+          line-height: 23px;
+          margin-right: 10px;
+        }
 /*
     ==============
       Portfolio
@@ -2698,6 +2717,7 @@ padding-bottom: 56.25%;
 padding-top: 30px;
 height: 0;
 overflow: hidden;
+/* background:rgba(0, 0, 0,1); */
 }
 
 .video-container iframe,

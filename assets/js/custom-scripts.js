@@ -75,9 +75,9 @@
     */
       // if($.fancybox.isMobile) {
       $("[data-fancybox]").fancybox({
-        if($.fancybox.isMobile) {
-          $.fancybox.destroy();
-        }
+        // if($.fancybox.isMobile) {
+        //   $.fancybox.destroy();
+        // }
       });
     // }
 
