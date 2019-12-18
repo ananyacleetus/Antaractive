@@ -2712,4 +2712,14 @@ width: 60%;
 height: 80%;
 }
 
+@media screen and (max-width: 1200px) {
+  #portfolio-modal {
+    visibility: visible;
+  }
+}
+
+#portfolio-modal {
+  visibility: hidden;
+}
+
 /*# sourceMappingURL=styles.css.map */
