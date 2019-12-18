@@ -73,9 +73,13 @@
     | fancybox
     |================
     */
-      if($.fancybox.isMobile) {
-      $("[data-fancybox]").fancybox({});
-    }
+      // if($.fancybox.isMobile) {
+      $("[data-fancybox]").fancybox({
+        if($.fancybox.isMobile) {
+          $.fancybox.destroy();
+        }
+      });
+    // }
 
     /*
     |===============
