@@ -1284,7 +1284,7 @@ body {
     line-height: 30px;
     font-weight: 600; }
     .mh-experince .mh-education-deatils .mh-education-item h4 a {
-      font-style: italic;
+      /* font-style: italic; */
       /* margin-left: 4px; */
       color: #E91E63; }
   .mh-experince .mh-education-deatils .mh-education-item .mh-eduyear {
