@@ -522,13 +522,20 @@ ul {
   background-position: center center; }
 
 .home-2-img {
-  background-image: url(../images/bg2.png); }
+  background-image: url(../images/bg1.jpg); }
 
 .featured-img-one {
-  background-image: url(../images/home-bg-img.jpg); }
+  background-image: url(../images/tedbackground3.png);
+  background-repeat: space;
+  background-position: 100px 0px;
+}
 
 .featured-img-two {
   background-image: url(../images/extra-feature-bg.jpg); }
+
+.featured-img-three {
+    background-image: url(../images/bg2.png);
+}
 
 .map-image {
   background-image: url(../images/map-color-overlay.png); }
