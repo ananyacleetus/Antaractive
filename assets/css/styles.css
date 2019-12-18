@@ -2761,5 +2761,9 @@ a#link.exp-link{
 a#link.exp-link:hover{
     color: #E91E63;
   }
-
+@media (max-width:1200px) {
+.gallery-modal {
+  visibility: hidden;
+  }
+}
 /*# sourceMappingURL=styles.css.map */
