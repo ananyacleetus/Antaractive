@@ -1351,6 +1351,14 @@ body {
           line-height: 23px;
           margin-right: 10px;
         }
+
+        .mh-work .mh-experience-deatils .mh-work-item .exp-link:hover{
+          color: #E91E63;
+        }
+
+        .mh-education .mh-education-deatils .mh-education-item .exp-link:hover{
+          color: #E91E63;
+        }
 /*
     ==============
       Portfolio
@@ -2741,5 +2749,15 @@ height: 80%;
 #portfolio-modal {
   visibility: hidden;
 }
+
+
+a#link.exp-link{
+    color: #FFFFFF;
+    font-style: normal;
+}
+
+a#link.exp-link:hover{
+    color: #E91E63;
+  }
 
 /*# sourceMappingURL=styles.css.map */
