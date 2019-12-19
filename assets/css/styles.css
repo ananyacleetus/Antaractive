@@ -2766,4 +2766,13 @@ a#link.exp-link:hover{
   visibility: hidden;
   }
 }
+
+a#link.talk-link{
+    color: #E91E63;
+    font-style: normal;
+}
+
+a#link.talk-link:hover{
+    color: #FFFFFF;
+  }
 /*# sourceMappingURL=styles.css.map */
