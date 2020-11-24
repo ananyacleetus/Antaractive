@@ -2775,4 +2775,15 @@ a#link.talk-link{
 a#link.talk-link:hover{
     color: #FFFFFF;
   }
+
+.modalpic {
+  width:100%;
+  position:relative;
+  text-align: center;
+}
+
+.modalpic-caption {
+  text-align: center;
+  padding-top: 20%;
+}
 /*# sourceMappingURL=styles.css.map */
