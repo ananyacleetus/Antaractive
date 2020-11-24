@@ -2799,4 +2799,12 @@ a#link.talk-link:hover{
   text-align: center;
   padding-top: 20%;
 }
+
+.bio {
+font-size: 16px;
+}
+
+#filter-button{
+  font-size: 16px;
+}
 /*# sourceMappingURL=styles.css.map */
