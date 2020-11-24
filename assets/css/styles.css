@@ -2776,6 +2776,19 @@ a#link.talk-link:hover{
     color: #FFFFFF;
   }
 
+  a#link.article-link{
+      color: #FFFFFF;
+      font-style: normal;
+  }
+
+  a#link.article-link:hover{
+      color: #E91E63;
+    }
+
+.article-source {
+  color: #E91E63 !important;
+}
+
 .modalpic {
   width:100%;
   position:relative;
